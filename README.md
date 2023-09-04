@@ -1,2 +1,3 @@
 # Smart-Contract
-Smart Contract Repo
+
+Smart contract repo for Doodie Coin token $DOO.
